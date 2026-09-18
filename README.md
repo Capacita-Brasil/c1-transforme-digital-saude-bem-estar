@@ -7,20 +7,24 @@
 
 ## 📋 Sobre o projeto
 
-Este repositório contém a solução de software desenvolvida pelo squad para a empresa parceira **Transforme Digital**, como parte da etapa de residência prática do programa.
+Este repositório contém a entrega final da solução desenvolvida para a empresa parceira **Transforme Digital**, a partir do MVP base de **Saúde e Bem-Estar do Funcionário**, incrementado com as necessidades específicas da empresa.
 
-**MVP desenvolvido:** Saúde e Bem-Estar do Funcionário
-
-Acompanhamento de humor, sono e estresse da equipe.
+**MVP base utilizado:**
+- Android: {{LINK_REPO_MVP_ANDROID}}
 
 ## 🏢 Empresa parceira
 
 | Campo | Informação |
 |---|---|
+| **Razão social** | Transforme Digital LTDA |
 | **Nome fantasia** | Transforme Digital |
-| **Segmento** | tecnologia |
+| **Segmento** | Tecnologia |
 | **Cidade/UF** | Tianguá/CE |
 | **Supervisor do projeto** | Rodrigo Ximenes Oliveira — Administrador |
+
+## 🎯 Requisitos específicos da empresa
+
+As necessidades particulares desta empresa (identidade visual, site, funcionalidades sob medida, etc.) estão detalhadas em [REQUISITOS.md](./REQUISITOS.md).
 
 ## 👥 Squad responsável
 
@@ -28,47 +32,20 @@ Acompanhamento de humor, sono e estresse da equipe.
 |---|---|
 | {{NOME_ALUNO_1}} | Desenvolvedor(a) |
 | {{NOME_ALUNO_2}} | Desenvolvedor(a) |
-| {{NOME_ALUNO_3}} | Desenvolvedor(a) |
 | {{NOME_MENTOR}} | Mentor(a) |
-
-## 📌 Gestão do projeto
-
-O acompanhamento das tarefas deste projeto é feito pelo quadro Kanban na aba **Projects** deste repositório.
 
 ## 🛠️ Stack utilizada
 
-- [ ] Java
-- [ ] Android
-- [ ] Nuvem ({{PROVEDOR_CLOUD}})
-- [ ] Banco de dados: {{BANCO_DE_DADOS}}
-- [ ] Outras tecnologias: {{OUTRAS_TECH}}
-
-## 🎨 Identidade visual
-
-O aplicativo foi personalizado com a identidade visual da **Transforme Digital**: cores, logotipo, tipografia e demais elementos de marca aplicados na solução.
+- **Linguagem:** {{LINGUAGEM}}
+- **Framework:** {{FRAMEWORK}}
+- **Banco de dados:** {{BANCO_DE_DADOS}}
+- **Outras tecnologias:** {{OUTRAS_TECH}}
 
 ## 🚀 Como rodar o projeto
 
 ```bash
-# Clone o repositório
 git clone <url-do-repositorio>
-
-# Instale as dependências
 {{COMANDO_INSTALACAO}}
-
-# Configure as variáveis de ambiente
 {{INSTRUCOES_ENV}}
-
-# Execute o projeto
 {{COMANDO_EXECUCAO}}
 ```
-
-## 📅 Cronograma da residência
-
-| Etapa | Período |
-|---|---|
-| Levantamento de escopo | {{DATA_INICIO}} |
-| Desenvolvimento | {{DATA_DESENVOLVIMENTO}} |
-| Validações com a empresa | {{DATAS_VALIDACAO}} |
-| Entrega final | {{DATA_ENTREGA}} |
-
